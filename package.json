@@ -1,0 +1,23 @@
+{
+  "name": "webdesign-week10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tensbeem/webdesign-week10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tensbeem/webdesign-week10/issues"
+  },
+  "homepage": "https://Tensbeem.github.io/webdesign-week10",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
